@@ -1,0 +1,11 @@
+{
+  "name": "env-guard",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "env-guard": "./bin/env-guard.js"
+  },
+  "scripts": {
+    "test": "node --test test/**/*.test.ts"
+  }
+}
